@@ -101,12 +101,9 @@ export default function Preloader({ onDone }) {
               className="flex items-baseline gap-3 font-mono text-sm text-ink-dim"
               aria-hidden="true"
             >
-             <span className="text-ink-muted flex flex-col">
-  <span>REHAN AHMAD</span>
-  <span>AI DEVELOPER</span>
-  <span>Loading Neural Experience...</span>
+          <span className="text-ink-muted">
+  REHAN AHMAD • AI ENGINEER • INITIALIZING...
 </span>
-
 <span className="w-10 text-signal-soft tabular-nums">
   {progress}%
 </span>
