@@ -102,7 +102,7 @@ export default function Preloader({ onDone }) {
               aria-hidden="true"
             >
           <span className="text-ink-muted">
-  REHAN AHMAD • AI ENGINEER • INITIALIZING...
+  REHAN AHMAD • INITIALIZING...
 </span>
 <span className="w-10 text-signal-soft tabular-nums">
   {progress}%
