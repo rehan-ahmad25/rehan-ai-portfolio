@@ -244,7 +244,7 @@ export default function Contact() {
                               className="mt-0.5 shrink-0 text-amber"
                             />
                             <p className="text-sm leading-relaxed text-ink-muted">
-                              Something went wrong sending that -- your
+                              Something went wrong sending that...your
                               message wasn't lost, nothing here was cleared.
                               Please try again, or email{" "}
                               <a
@@ -338,7 +338,7 @@ ${submitted.message}`}
                         data-cursor-hover
                         className="flex items-center gap-2 rounded-full px-5 py-2.5 font-mono text-[12.5px] text-ink-dim transition-colors hover:text-ink"
                       >
-                        <HiOutlineArrowPath aria-hidden="true" /> Send another message
+                        <HiOutlineArrowPath aria-hidden="true" /> Send another message.
                       </button>
                     </div>
                   </motion.div>
