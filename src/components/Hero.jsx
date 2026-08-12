@@ -63,23 +63,25 @@ export default function Hero() {
           </motion.h1>
 
           <motion.p
-            variants={item}
-            className="mt-5 text-base text-ink-muted md:text-lg"
-          >
-            AI Developer <span className="mx-2 text-ink-dim">·</span>{" "}
-            Machine Learning Engineer
-          </motion.p>
+  variants={item}
+  className="mt-5 text-base text-ink-muted md:text-lg"
+>
+  AI Developer <span className="mx-2 text-ink-dim">·</span>{" "}
+  ML Engineer <span className="mx-2 text-ink-dim">·</span>{" "}
+  Web Developer
+</motion.p>
 
           <motion.p
-            variants={item}
-            className="mt-7 max-w-xl text-base leading-relaxed text-ink-muted md:text-lg"
-          >
-           Building <span className="text-ink">production-ready AI systems</span>{" "}
-across <span className="text-ink">Large Language Models</span>,{" "}
-<span className="text-ink">RAG</span>,{" "}
-<span className="text-ink">Voice AI</span>, and{" "}
-<span className="text-ink">Computer Vision</span>.
-          </motion.p>
+  variants={item}
+  className="mt-7 max-w-xl text-base leading-relaxed text-ink-muted md:text-lg"
+>
+  Building <span className="text-ink">production-ready AI systems</span>{" "}
+  across <span className="text-ink">Large Language Models</span>,{" "}
+  <span className="text-ink">RAG</span>,{" "}
+  <span className="text-ink">Voice AI</span>, and{" "}
+  <span className="text-ink">Computer Vision</span> —{" "}
+  with modern <span className="text-ink">web applications</span> to bring them to life.
+</motion.p>
 
           <motion.div variants={item} className="mt-10 flex flex-wrap items-center gap-4">
             <Magnetic

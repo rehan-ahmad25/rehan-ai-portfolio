@@ -46,12 +46,12 @@ export default function About() {
             className="space-y-6 lg:col-span-8"
           >
             <p className="text-lg leading-relaxed text-ink-muted">
-              I'm <span className="text-ink">Rehan Ahmad</span>, an AI Developer driven by the challenge of building intelligent software that people can actually use. I specialize in Large Language Models, Voice AI, Computer Vision, and Retrieval-Augmented Generation (RAG), creating AI solutions that combine modern machine learning with thoughtful engineering.
-              
-            </p>
-            <p className="text-lg leading-relaxed text-ink-muted">
-              Whether it's developing AI assistants, intelligent automation, or computer vision applications, I enjoy turning complex ideas into seamless user experiences while continuously exploring the latest advancements in artificial intelligence.
-            </p>
+  I'm <span className="text-ink">Rehan Ahmad</span>, an AI Developer and ML Engineer driven by the challenge of building intelligent software that people can actually use. I specialize in Large Language Models, Voice AI, Computer Vision, and Retrieval-Augmented Generation (RAG), combining modern machine learning with thoughtful engineering to build practical AI solutions.
+</p>
+
+<p className="text-lg leading-relaxed text-ink-muted">
+  Whether it's developing AI assistants, intelligent automation, or computer vision applications, I enjoy turning complex ideas into seamless user experiences and building the web experiences that bring them to life, while continuously exploring the latest advancements in artificial intelligence.
+</p>
 
             <div className="grid grid-cols-2 gap-6 pt-4 sm:grid-cols-4">
               {stats.map((s, i) => (
