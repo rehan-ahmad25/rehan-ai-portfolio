@@ -147,9 +147,9 @@ export const marqueeItems = [
 ];
 
 export const stats = [
-  { value: "10+", label: "AI Systems Built" },
-  { value: "15M", label: "LLM Parameters" },
-  { value: "6", label: "AI Domains" },
+  { value: "20+", label: "AI Systems Built" },
+  { value: "15M+", label: "LLM Parameters" },
+  { value: "10", label: "AI Domains" },
   { value: "446M+", label: "Training Tokens" },
 
 ];
