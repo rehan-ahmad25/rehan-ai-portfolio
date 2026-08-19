@@ -5,7 +5,7 @@
 const blogs = [
   {
     id: "training-my-own-llm",
-    title: "How I Built My Own 15M Parameter Language Model",
+    title: "How I Built AstraGPT: My Own 15M Parameter Language Model",
     excerpt:
       "A behind-the-scenes look at designing, training, and optimizing my own transformer-based language model from scratch using PyTorch—from tokenization to text generation.",
     tag: "LLMs",
