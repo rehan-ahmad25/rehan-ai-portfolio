@@ -75,12 +75,15 @@ export default function Hero() {
   variants={item}
   className="mt-7 max-w-xl text-base leading-relaxed text-ink-muted md:text-lg"
 >
-  Building <span className="text-ink">production-ready AI systems</span>{" "}
+  I’m <span className="text-ink">Rehan Ahmad</span>, an{" "}
+  <span className="text-ink">AI Developer and ML Engineer</span>{" "}
+  building <span className="text-ink">production-ready AI systems</span>{" "}
   across <span className="text-ink">Large Language Models</span>,{" "}
   <span className="text-ink">RAG</span>,{" "}
   <span className="text-ink">Voice AI</span>, and{" "}
   <span className="text-ink">Computer Vision</span> —{" "}
-  with modern <span className="text-ink">web applications</span> to bring them to life.
+  with modern <span className="text-ink">web applications</span>{" "}
+  to bring them to life.
 </motion.p>
 
           <motion.div variants={item} className="mt-10 flex flex-wrap items-center gap-4">
