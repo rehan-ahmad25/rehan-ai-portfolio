@@ -153,7 +153,7 @@ function ProjectCard({ project, index }) {
             data-cursor-hover
             className="flex flex-1 items-center justify-center gap-2 rounded-full border border-edge px-5 py-2.5 font-body text-[13px] font-medium text-ink transition-colors hover:border-signal/50 hover:bg-white/5"
           >
-            <FaGithub aria-hidden="true" /> GitHub
+            <FaGithub aria-hidden="true" /> View GitHub Repository
           </Magnetic>
           
         </div>
