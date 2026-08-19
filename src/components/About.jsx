@@ -19,12 +19,12 @@ export default function About() {
           className="mb-16"
         >
           <SectionEyebrow number="01" label="ABOUT" />
-          <h2 className="max-w-2xl font-display text-4xl font-normal leading-[1.15] md:text-5xl">
-            I sit between research and production, {" "}
-            <span className="text-ink-muted">
-              where a model that works in a notebook has to survive real traffic.
-            </span>
-          </h2>
+         <h2 className="max-w-2xl font-display text-4xl font-normal leading-[1.15] md:text-5xl">
+  I’m <span className="text-ink">Rehan Ahmad</span> — I sit between research and production,{" "}
+  <span className="text-ink-muted">
+    where a model that works in a notebook has to survive real traffic.
+  </span>
+</h2>
         </motion.div>
 
         <div className="grid gap-16 lg:grid-cols-12 lg:gap-10">
