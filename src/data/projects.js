@@ -15,6 +15,30 @@ const projects = [
   year: "2025",
   color: "#4C8DFF",
 },
+   {
+  id: "codeforge-ai",
+  index: "10",
+  name: "CodeForge AI",
+  category: "AI Agents / Software Engineering",
+  tagline: "Autonomous multi-agent software engineering system",
+  description:
+    "An autonomous multi-agent software engineering platform that transforms natural-language requirements into tested, reviewed, and GitHub-ready software. Built with LangGraph to orchestrate Planner, Coder, Test, Debugger, Reviewer, and GitHub agents through a shared typed workflow with bounded retries, sandboxed code execution, live SSE updates, and automated pull requests.",
+  stack: [
+    "Python",
+    "LangGraph",
+    "FastAPI",
+    "React",
+    "Docker",
+    "Groq",
+    "GitHub API"
+  ],
+  image: "codeforge",
+  screenshot: "/projects/code.png",
+  github: "https://github.com/rehan-ahmad25/codeforge-ai",
+  demo: "",
+  year: "2026",
+  color: "#6C63FF",
+},
  {
   id: "astra-voice",
   index: "2",
@@ -61,7 +85,7 @@ const projects = [
   year: "2025",
   color: "#5EEAD4",
 },
- 
+
 {
   id: "brain-tumor",
   index: "4",
@@ -81,7 +105,7 @@ const projects = [
   screenshot: "/projects/brain.png",
   github: "https://github.com/rehan-ahmad25/explainable-brain-tumor-classification",
   demo: "",
-  year: "2025",
+  year: "2026",
   color: "#FF7A8A",
 },
 {
@@ -103,7 +127,7 @@ const projects = [
   screenshot: "/projects/eye.png",
   github: "https://github.com/rehan-ahmad25/eye-disease-detection-ai",
   demo: "",
-  year: "2025",
+  year: "2026",
   color: "#63D2FF",
 },
 {
@@ -125,7 +149,7 @@ const projects = [
   screenshot: "/projects/echoself.png",
   github: "https://github.com/rehan-ahmad25/EchoSelf",
   demo: "",
-  year: "2025",
+  year: "2026",
   color: "#8B7BFF",
 },
  {
@@ -147,7 +171,7 @@ const projects = [
   screenshot: "/projects/eyemouse.png",
   github: "https://github.com/rehan-ahmad25/EyePilotAI",
   demo: "",
-  year: "2025",
+  year: "2026",
   color: "#7FA9FF",
 },
   {
@@ -163,7 +187,7 @@ const projects = [
     screenshot: "/projects/camera.png",
     github: "https://github.com/rehan-ahmad25/AI-Powered-Crime-Analyzer",
     demo: "",
-    year: "2024",
+    year: "2026",
     color: "#4C8DFF",
   },
   
@@ -186,7 +210,7 @@ const projects = [
   screenshot: "/projects/crypto-pulse.png",
   github: "https://github.com/rehan-ahmad25/crypto-pump-detection-system",
   demo: null,
-  year: "2025",
+  year: "2026",
   color: "#F7C948",
 },
 
